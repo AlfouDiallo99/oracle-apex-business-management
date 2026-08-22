@@ -1,5 +1,5 @@
 # 🗄️ Oracle APEX Business Management
-
+![Business Management](screenshots/backroom.png)
 Application de gestion développée avec **Oracle APEX** dans le cadre d'un projet académique.
 
 L'application permet de gérer et de consulter différentes informations liées aux **organisations, clients et contrats**, à travers une interface web développée avec Oracle APEX.
