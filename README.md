@@ -103,10 +103,11 @@ Le repository contient uniquement la documentation et les captures d'écran perm
 
 ## 👨‍💻 Auteur
 
-**Hussein Alhoussein**
+**Alfousseyny Diallo**
 
-Étudiant en informatique — Data Science, Machine Learning et Intelligence Artificielle.
+Étudiant en informatique | Data Science | Machine Learning | IA | Vision par ordinateur 🤖👁️
 
+Passionné par l'Intelligence Artificielle, avec un intérêt particulier pour la **Vision par Ordinateur**.
 ---
 
 ⭐ Merci d'avoir consulté ce projet !
